@@ -30,6 +30,6 @@
 - Patience I and Patience II directly increase the chance of catching big biting.
   - "Large-sized fish" as descriped in the skill tooltips refer to larger-than-average specimens for its species of fish (which is relevant for certain mechanics) whereas "big fish" is a term used by achievements referring to the green-background fish in the final position(s) of an overworld fishing spot's log.
 - The likelihood of Gulls or Dolphins appearing on an ocean fishing boat can be influenced by player actions.
-  - This is not true.
+  - [Extensive testing has never been able to detect this](https://docs.google.com/spreadsheets/d/13-b5ZvCuDod2CDk3Q0zvHEo4-x_nBtxQXpDkKbZPLEE/edit?gid=1106872707#gid=1106872707)
 - Using Chum reduces the chance of big fish biting.
   - This is not true.

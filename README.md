@@ -23,3 +23,5 @@
   - Several big fish in Heavensward do not require their local tomes, such as Captain Nemo.
 - Each fishing spot can only be found on one map.
   - The Derelicts can be cast into from both The Buttress and The Canopy of Eulmore
+- Fish windows always start and end exactly on the hour.
+  - [Square Enix published exact windows for many fish released during or before Stormblood, including cases such as 23:30 - 1:05 for The Captain's Chalice](https://docs.google.com/spreadsheets/d/1-xHxwQbxffXUFBX88AkavxD0smCd9QWuMbPv8DCE2l4/edit?gid=1568185062#gid=1568185062)

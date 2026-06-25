@@ -20,3 +20,5 @@
 - All big fish require a Tome of Folklore to be caught.
   - ARR zones do not have folklore books.
   - Several big fish in Heavensward do not require their local tomes, such as Captain Nemo.
+- Each fishing spot can only be found on one map.
+  - The Derelicts can be cast into from both The Buttress and The Canopy of Eulmore

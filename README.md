@@ -27,5 +27,8 @@
   - After [the split of North Bronze Lake](https://na.finalfantasyxiv.com/lodestone/topics/detail/12ed915838dbdc22fe36871a2604f9b1d97b848d), King of the Spring can now be caught in both Northwest Bronze Lake and Northeast Bronze Lake.
 - Fish windows always start and end exactly on the hour.
   - [Square Enix published exact windows for many fish released during or before Stormblood, including cases such as 23:30 - 1:05 for The Captain's Chalice](https://docs.google.com/spreadsheets/d/1-xHxwQbxffXUFBX88AkavxD0smCd9QWuMbPv8DCE2l4/edit?gid=1568185062#gid=1568185062).
-- Patience I and Patience II directly increase the chance of catching big fish.
+- Patience I and Patience II directly increase the chance of catching big biting.
   - "Large-sized fish" as descriped in the skill tooltips refer to larger-than-average specimens for its species of fish (which is relevant for certain mechanics) whereas "big fish" is a term used by achievements referring to the green-background fish in the final position(s) of an overworld fishing spot's log.
+- The likelihood of Gulls or Dolphins appearing on an ocean fishing boat can be influenced by player actions.
+  - This is not true.
+- Using Chum reduces the chance of big fish biting.

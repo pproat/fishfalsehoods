@@ -33,18 +33,24 @@
   - [Extensive testing has never been able to detect this](https://docs.google.com/spreadsheets/d/13-b5ZvCuDod2CDk3Q0zvHEo4-x_nBtxQXpDkKbZPLEE/edit?gid=1106872707#gid=1106872707).
 - Using Chum reduces the chance of big fish biting.
   - This is not true.
-- Big fish that bite exclusively from bait can only bite from 1 bait and also Versatile Lure.
+- <details>
+  <summary> Big fish that bite exclusively from bait can only bite from 1 bait and also Versatile Lure.</summary>
+  
   - Big fish from ARR can also bite from Freshwater or Saltwater Boilie in addition to Versatile Lure.
   - Slime King bites from Crayfish Ball and Bloodworm.
   - Jacques the Snipper bites from Goby Ball and Rat Tail.
   - Faerie Queen bites from Spinner and Spinnerbait.
   - Sabertooth Cod bites from Goby Ball and Rat Tail. 
   - Moggle Mogpom bites from Brute Leech, Bladed Steel Jig, and Goblin Jig.
-- Big fish that are mooched can only have one potential catch path/Mooch.
+  </details>
+- <details> 
+  <summary>Big fish that are mooched can only have one potential catch path/Mooch.</summary>
+  
   - Octomammoth can bite from a Merlthor Goby or Harbor Herring mooch.
   - Gigantshark can bite from a Merlthor Goby, Harbor Herring or Ogre Barracuda mooch.
   - Ndendecki can bite from a Silverfish or Assassin Betta mooch.
   - Pirate's Bane can bite from a Merlthor Goby or Wahoo mooch.
   - Junkmonger can bite from a Merlthor Goby or Wahoo mooch.
   - Nepto Dragon can bite from a Merlthor Goby mooch or from Nothern Krill bait.
-  - Merciless can bite from an Ice Faerie mooch or rom Brute Leech bait.
+  - Merciless can bite from an Ice Faerie mooch or from Brute Leech bait.
+  </details>

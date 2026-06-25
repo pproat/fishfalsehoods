@@ -1,11 +1,10 @@
 # Falsehoods FFXIV players believe about fishing
 
-
-- Big fish never come out in X.0 patches
-  - Little Perykos was added in 4.0 when the Isle of Endless Summer was added for the first Moonfire Faire.
 - All big fish are !!! bites.
   - The Salter is a ! bite.
   - Little Perykos is a !! bite.
+- Big fish never come out in X.0 patches
+  - Little Perykos was added in 4.0 when the Isle of Endless Summer was added for the first Moonfire Faire.
 - Big fish added in the same patch have the same minimum gathering and perception requirements.
   - [Countless counter-examples as recent as Stormblood](https://docs.google.com/spreadsheets/d/13aNWwXntb2Y3eOOEdf6G99BZwdBdw3BPMYtx-zmj07M/edit?gid=1944873180#gid=1944873180).
 - Big fish have a hard minimum gathering requirement.
@@ -23,5 +22,10 @@
   - Several big fish in Heavensward do not require their local tomes, such as Captain Nemo.
 - Each fishing spot can only be found on one map.
   - The Derelicts can be cast into from both The Buttress and The Canopy of Eulmore.
+  - Northwest Bronze Lake and Northeast Bronze Lake used to be one unified fishing hole [but were seperated in 3.51](https://na.finalfantasyxiv.com/lodestone/topics/detail/12ed915838dbdc22fe36871a2604f9b1d97b848d) after [catching King of the Spring from Outer La Noscea would crash the server](https://na.finalfantasyxiv.com/lodestone/news/detail/43d7d7c526e1ebac15e4ebff1d58558c5c79e374).
+- Each big fish can only be found in one fishing spot.
+  - After [the split of North Bronze Lake](https://na.finalfantasyxiv.com/lodestone/topics/detail/12ed915838dbdc22fe36871a2604f9b1d97b848d), King of the Spring can now be caught in both Northwest Bronze Lake and Northeast Bronze Lake.
 - Fish windows always start and end exactly on the hour.
   - [Square Enix published exact windows for many fish released during or before Stormblood, including cases such as 23:30 - 1:05 for The Captain's Chalice](https://docs.google.com/spreadsheets/d/1-xHxwQbxffXUFBX88AkavxD0smCd9QWuMbPv8DCE2l4/edit?gid=1568185062#gid=1568185062).
+- Patience I and Patience II directly increase the chance of catching big fish.
+  - "Large-sized fish" as descriped in the skill tooltips refer to larger-than-average specimens for its species of fish (which is relevant for certain mechanics) whereas "big fish" is a term used by achievements referring to the green-background fish in the final position(s) of an overworld fishing spot's log.

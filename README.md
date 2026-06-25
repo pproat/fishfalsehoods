@@ -7,7 +7,7 @@
   - Little Perykos was added in 4.0 when the Isle of Endless Summer was added for the first Moonfire Faire.
 - Big fish added in the same patch have the same minimum gathering and perception requirements.
   - [Countless counter-examples as recent as Stormblood](https://docs.google.com/spreadsheets/d/13aNWwXntb2Y3eOOEdf6G99BZwdBdw3BPMYtx-zmj07M/edit?gid=1944873180#gid=1944873180).
-- Big fish have a hard minimum gathering requirement.
+- All big fish have a hard minimum gathering requirement.
   - Little Perykos does not give an insufficient gathering system message when reeling with 0 gathering, however the slip rate at this gathering is immense.
 - The reeling animation for a fish will always match the bite.
   - [See the 3 points below](https://docs.google.com/spreadsheets/d/1AgHCAVoGYDpNJSLidF0mgSa0wo4MKHOhYpIDLprZtb8/edit?gid=816149282#gid=816149282).

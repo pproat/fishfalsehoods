@@ -32,3 +32,4 @@
 - The likelihood of Gulls or Dolphins appearing on an ocean fishing boat can be influenced by player actions.
   - This is not true.
 - Using Chum reduces the chance of big fish biting.
+  - This is not true.
